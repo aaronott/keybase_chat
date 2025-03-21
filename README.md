@@ -33,8 +33,8 @@ I will admit that I had a lot of help from ChatGPT, it created most of this but 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/aaronott/keybase_chat.git
+   cd keybase_chat
    ```
 
 
