@@ -1,0 +1,7 @@
+{
+  "debug": false,
+  "max_recent": 5,
+  "hide_names": ["test", "spam"],
+  "read_at_least": 10
+}
+
