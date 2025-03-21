@@ -2,7 +2,7 @@
 
 This project implements a full-screen, Textual-based chat client for Keybase using the Keybase CLI. It allows you to list conversations, send and receive messages in real-time, attach files, and download files directly from the command line.
 
-I will admit that I had a lot of help from ChatGPT, it created most of this but I needed to update some of the things it couldn't figure out.
+I will admit that I had a lot of help from ChatGPT, it created most of this but I needed to update some of the things it couldn't figure out. The SUMMARY.md has a full output from ChatGPT so you can see what it things is happening.
 
 ## Features
 
